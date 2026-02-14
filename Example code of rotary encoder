@@ -25,7 +25,9 @@ void loop()
 {
 
     Serial.println(count);
-    delay(300);
+    delay(1000); // increased delay
+
+
   
 }
 void btn(){
